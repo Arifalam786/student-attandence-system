@@ -1,3 +1,6 @@
+#this file is for rough work only 
+#main.py is the main file of this project
+
 import os
 import pickle
 import numpy as np
